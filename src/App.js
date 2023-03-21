@@ -12,6 +12,36 @@ export default class App extends Component {
   }
 
   // generate different activity function
-  
+  generateRandomActivity = (arr) => {
+    // get random numbers
+    let num = Math.floor(Math.random() * activities.length)
 
+    let newActivity = activities[num];
+
+    // update state
+    this.setState({
+      activity: newActivity.activity,
+      description: newActivity.activity
+    })
+
+    this.shuffleActivities(activities)
+
+  }
+
+  // shuffle activities function
+  shuffleActivities = (arr) => {
+    return arr.sort(function () { return 0.5 - Math.random() });
+  }
+
+  render() {
+    return (
+      <div className="container">
+        <h1 className="text-center">Random Activity</h1>
+        <ActivityAndDescription
+        generateRandomActivity={this.generateRandomActivity}
+        activity={this.state}
+        />
+      </div>
+    )
+  }
 }
