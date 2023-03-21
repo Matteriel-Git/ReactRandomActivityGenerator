@@ -20,7 +20,7 @@ export default function ActivityAndDescription(props) {
                     generateRandomActivity(activity);
                     window.open('https://twitter.com/intent/tweet/?text=' + encodeURIComponent(activity.activity + '--' + activity.description))
                 }}
-                type="submit"><i class="fab fa-twitter"></i> Share Your New Activity</button>
+                type="submit"><i className="fab fa-twitter"></i> Share Your New Activity</button>
             </div>
         </div>
     )

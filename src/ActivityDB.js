@@ -1,204 +1,204 @@
 const activities = [
     {
-        "activity": "",
+        "activity": "Go for a walk",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Listen to music",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Take photographs",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Read a newspaper or magazine",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Take a bath",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Sit in the sun",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Watch a movie",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Laugh",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Write in a journal",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Work on a puzzle",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Recall a happy memory",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Coloring",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Gardening",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Spend time with friends",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Do yoga",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Swimming",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Singing",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Dancing",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Go to a flea market",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Drawing or doodling",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Painting",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Buy fresh flowers",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Join a book club",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Go to a farmer's market",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Be affectionate with a loved one",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Play a musical instrument",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Crafting (crochet, model building)",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Get a manicure or pedicure",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Cooking",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Jogging or running",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Play a sport",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Go sightseeing in your own town",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Read a book",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Meditate",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Watch a sunrise or sunset",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Enjoy a cup of tea",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Have a picnic",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Visit a museum",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Sudoku or a crossword puzzle",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Play a board game",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Look at old photos",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Light a scented candle",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Call a friend or family member",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Hiking",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Get a massage",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Volunteer",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Go to the library",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Go to a park",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Stargazing",
         "description": ""
     },
     {
-        "activity": "",
+        "activity": "Explore somewhere new",
         "description": ""
-    },
+    }
 ]
 
 export default activities;
