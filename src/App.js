@@ -21,7 +21,7 @@ export default class App extends Component {
     // update state
     this.setState({
       activity: newActivity.activity,
-      description: newActivity.activity
+      description: newActivity.description
     })
 
     this.shuffleActivities(activities)

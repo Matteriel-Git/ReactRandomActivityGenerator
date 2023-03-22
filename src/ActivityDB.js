@@ -1,203 +1,203 @@
 const activities = [
     {
         "activity": "Go for a walk",
-        "description": ""
+        "description": "Walk anywhere you choose"
     },
     {
         "activity": "Listen to music",
-        "description": ""
+        "description": "Put on your favortite music"
     },
     {
-        "activity": "Take photographs",
-        "description": ""
+        "activity": "Photography",
+        "description": "Take pictures of something that interests you. Can be fashion, sports, architecture, nature, etc"
     },
     {
         "activity": "Read a newspaper or magazine",
-        "description": ""
+        "description": "Crossword puzzles are awesome!"
     },
     {
         "activity": "Take a bath",
-        "description": ""
+        "description": "Relax in a nice long bath"
     },
     {
         "activity": "Sit in the sun",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Watch a movie",
-        "description": ""
+        "description": "test"
     },
     {
-        "activity": "Laugh",
-        "description": ""
+        "activity": "Go on a bike ride",
+        "description": "Find a nice path and explore it"
     },
     {
         "activity": "Write in a journal",
-        "description": ""
+        "description": "Put your thoughts down on paper"
     },
     {
         "activity": "Work on a puzzle",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Recall a happy memory",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Coloring",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Gardening",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Spend time with friends",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Do yoga",
-        "description": ""
+        "description": "You can find all instuctions needed for a routine online"
     },
     {
         "activity": "Swimming",
-        "description": ""
+        "description": "Great activity for a hot day"
     },
     {
         "activity": "Singing",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Dancing",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Go to a flea market",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Drawing or doodling",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Painting",
-        "description": ""
+        "description": "test"
     },
     {
-        "activity": "Buy fresh flowers",
-        "description": ""
+        "activity": "Go running",
+        "description": "test"
     },
     {
         "activity": "Join a book club",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Go to a farmer's market",
-        "description": ""
+        "description": "test"
     },
     {
-        "activity": "Be affectionate with a loved one",
-        "description": ""
+        "activity": "Talk to loved one's",
+        "description": "test"
     },
     {
         "activity": "Play a musical instrument",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Crafting (crochet, model building)",
-        "description": ""
-    },
-    {
-        "activity": "Get a manicure or pedicure",
-        "description": ""
-    },
-    {
-        "activity": "Cooking",
-        "description": ""
-    },
-    {
-        "activity": "Jogging or running",
-        "description": ""
-    },
-    {
-        "activity": "Play a sport",
-        "description": ""
-    },
-    {
-        "activity": "Go sightseeing in your own town",
-        "description": ""
-    },
-    {
-        "activity": "Read a book",
-        "description": ""
-    },
-    {
-        "activity": "Meditate",
-        "description": ""
-    },
-    {
-        "activity": "Watch a sunrise or sunset",
-        "description": ""
-    },
-    {
-        "activity": "Enjoy a cup of tea",
-        "description": ""
-    },
-    {
-        "activity": "Have a picnic",
-        "description": ""
-    },
-    {
-        "activity": "Visit a museum",
-        "description": ""
-    },
-    {
-        "activity": "Sudoku or a crossword puzzle",
-        "description": ""
-    },
-    {
-        "activity": "Play a board game",
-        "description": ""
-    },
-    {
-        "activity": "Look at old photos",
-        "description": ""
-    },
-    {
-        "activity": "Light a scented candle",
-        "description": ""
-    },
-    {
-        "activity": "Call a friend or family member",
-        "description": ""
-    },
-    {
-        "activity": "Hiking",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Get a massage",
-        "description": ""
+        "description": "test"
     },
     {
-        "activity": "Volunteer",
-        "description": ""
-    },
-    {
-        "activity": "Go to the library",
-        "description": ""
+        "activity": "Cooking",
+        "description": "test"
     },
     {
         "activity": "Go to a park",
-        "description": ""
+        "description": "test"
+    },
+    {
+        "activity": "Play a sport",
+        "description": "test"
+    },
+    {
+        "activity": "Go sightseeing in your own town",
+        "description": "test"
+    },
+    {
+        "activity": "Read a book",
+        "description": "test"
+    },
+    {
+        "activity": "Meditate",
+        "description": "test"
+    },
+    {
+        "activity": "Watch a sunrise or sunset",
+        "description": "test"
+    },
+    {
+        "activity": "Enjoy a cup of tea",
+        "description": "test"
+    },
+    {
+        "activity": "Have a picnic",
+        "description": "test"
+    },
+    {
+        "activity": "Visit a museum",
+        "description": "test"
+    },
+    {
+        "activity": "Sudoku or a crossword puzzle",
+        "description": "test"
+    },
+    {
+        "activity": "Play a board game",
+        "description": "test"
+    },
+    {
+        "activity": "Look at old photos",
+        "description": "test"
+    },
+    {
+        "activity": "Roadtrip",
+        "description": "test"
+    },
+    {
+        "activity": "Call a friend or family member",
+        "description": "test"
+    },
+    {
+        "activity": "Hiking",
+        "description": "test"
+    },
+    {
+        "activity": "Go to movie theatre",
+        "description": "test"
+    },
+    {
+        "activity": "Volunteer",
+        "description": "test"
+    },
+    {
+        "activity": "Go to the library",
+        "description": "test"
+    },
+    {
+        "activity": "Go to a coffee shop",
+        "description": "test"
     },
     {
         "activity": "Stargazing",
-        "description": ""
+        "description": "test"
     },
     {
         "activity": "Explore somewhere new",
-        "description": ""
+        "description": "test"
     }
 ]
 

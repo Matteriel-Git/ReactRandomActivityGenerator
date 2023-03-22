@@ -13,7 +13,7 @@ export default function ActivityAndDescription(props) {
                 <button
                 onClick={() => {generateRandomActivity(activities) }}
                 type="submit">
-                <i className="fas fa-mouse"></i> Generate Quote</button>
+                <i className="fas fa-mouse"></i> Generate Activity</button>
                 <button
                 className="m1-3"
                 onClick={() => {
