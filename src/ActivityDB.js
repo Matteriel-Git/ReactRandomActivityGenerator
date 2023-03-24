@@ -41,19 +41,19 @@ const activities = [
     },
     {
         "activity": "Recall a happy memory",
-        "description": "test"
+        "description": "The best memory you can think of"
     },
     {
         "activity": "Coloring",
-        "description": "test"
+        "description": "Grab a marker or colored pencil and start coloring"
     },
     {
         "activity": "Gardening",
-        "description": "test"
+        "description": "Grow some plants"
     },
     {
         "activity": "Spend time with friends",
-        "description": "test"
+        "description": "Have some fun with your firends"
     },
     {
         "activity": "Do yoga",
@@ -65,107 +65,107 @@ const activities = [
     },
     {
         "activity": "Singing",
-        "description": "test"
+        "description": "Perform some songs"
     },
     {
         "activity": "Dancing",
-        "description": "test"
+        "description": "Get your feet and body moving to some music"
     },
     {
         "activity": "Go to a flea market",
-        "description": "test"
+        "description": "Full of interesting people and things"
     },
     {
-        "activity": "Drawing or doodling",
-        "description": "test"
+        "activity": "Drawing",
+        "description": "A picture or diagram made with a pencil, pen, or crayon rather than paint"
     },
     {
         "activity": "Painting",
-        "description": "test"
+        "description": "The process or art of using paint, in a picture, as a protective coating, or as decoration"
     },
     {
         "activity": "Go running",
-        "description": "test"
+        "description": "The action or movement of a runner"
     },
     {
         "activity": "Join a book club",
-        "description": "test"
+        "description": "Where a group comes together to talk about the current book they are reading"
     },
     {
         "activity": "Go to a farmer's market",
-        "description": "test"
+        "description": "A food market at which local farmers sell fruit and vegetables and often meat, cheese, and bakery products directly to consumers."
     },
     {
         "activity": "Talk to loved one's",
-        "description": "test"
+        "description": "Could be a family member or someone you care deeply about"
     },
     {
         "activity": "Play a musical instrument",
-        "description": "test"
+        "description": "Any device for producing a musical sound"
     },
     {
         "activity": "Crafting (crochet, model building)",
-        "description": "test"
+        "description": "The activity or hobby of making decorative articles by hand"
     },
     {
         "activity": "Get a massage",
-        "description": "test"
+        "description": "The rubbing and kneading of muscles and joints of the body with the hands, especially to relieve tension or pain"
     },
     {
         "activity": "Cooking",
-        "description": "test"
+        "description": "The practice or skill of preparing food by combining, mixing, and heating ingredients"
     },
     {
         "activity": "Go to a park",
-        "description": "test"
+        "description": "A large public green area in a town, used for recreation"
     },
     {
         "activity": "Play a sport",
-        "description": "test"
+        "description": "Football, basketball, baseball, soccer, etc"
     },
     {
         "activity": "Go sightseeing in your own town",
-        "description": "test"
+        "description": "The activity of visiting places of interest in a particular location"
     },
     {
         "activity": "Read a book",
-        "description": "test"
+        "description": "A book you've always wanted to read"
     },
     {
         "activity": "Meditate",
-        "description": "test"
+        "description": "Think deeply or focus one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation"
     },
     {
         "activity": "Watch a sunrise or sunset",
-        "description": "test"
+        "description": "Great to be paired with another acitivity on this list"
     },
     {
         "activity": "Enjoy a cup of tea",
-        "description": "test"
+        "description": "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water"
     },
     {
         "activity": "Have a picnic",
-        "description": "test"
+        "description": "An outing or occasion that involves taking a packed meal to be eaten outdoors"
     },
     {
         "activity": "Visit a museum",
-        "description": "test"
+        "description": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited"
     },
     {
         "activity": "Sudoku or a crossword puzzle",
-        "description": "test"
+        "description": "A puzzle in which players insert the numbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller squares in such a way that every number appears once in each horizontal line, vertical line, and square"
     },
     {
         "activity": "Play a board game",
-        "description": "test"
+        "description": "Any game played on a board, especially one that involves the movement of pieces on the board, such as chess or checkers"
     },
     {
         "activity": "Look at old photos",
-        "description": "test"
+        "description": "One's that bring back great memories"
     },
     {
         "activity": "Roadtrip",
-        "description": "test"
+        "description": "A journey made by car, bus, etc"
     },
     {
         "activity": "Call a friend or family member",
