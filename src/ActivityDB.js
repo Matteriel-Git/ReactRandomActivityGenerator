@@ -1,7 +1,7 @@
 const activities = [
     {
         "activity": "Go for a walk",
-        "description": "Walk anywhere you choose"
+        "description": "To walk for pleasure rather than for practical reasons"
     },
     {
         "activity": "Listen to music",
@@ -13,7 +13,7 @@ const activities = [
     },
     {
         "activity": "Read a newspaper or magazine",
-        "description": "Crossword puzzles are awesome!"
+        "description": "A printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence"
     },
     {
         "activity": "Take a bath",
@@ -21,11 +21,11 @@ const activities = [
     },
     {
         "activity": "Sit in the sun",
-        "description": "test"
+        "description": "Sunscreen required"
     },
     {
         "activity": "Watch a movie",
-        "description": "test"
+        "description": "An old favorite, or a new one that interests you"
     },
     {
         "activity": "Go on a bike ride",
@@ -37,7 +37,7 @@ const activities = [
     },
     {
         "activity": "Work on a puzzle",
-        "description": "test"
+        "description": "A game, toy, or problem designed to test ingenuity or knowledge"
     },
     {
         "activity": "Recall a happy memory",
@@ -57,7 +57,7 @@ const activities = [
     },
     {
         "activity": "Do yoga",
-        "description": "You can find all instuctions needed for a routine online"
+        "description": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation"
     },
     {
         "activity": "Swimming",
@@ -169,35 +169,35 @@ const activities = [
     },
     {
         "activity": "Call a friend or family member",
-        "description": "test"
+        "description": "Just to catch up with each other"
     },
     {
         "activity": "Hiking",
-        "description": "test"
+        "description": "The activity of going for long walks, especially in the country or woods"
     },
     {
         "activity": "Go to movie theatre",
-        "description": "test"
+        "description": "A theater where movies are shown for public entertainment"
     },
     {
         "activity": "Volunteer",
-        "description": "test"
+        "description": "A person who freely offers to take part in an enterprise or undertake a task"
     },
     {
         "activity": "Go to the library",
-        "description": "test"
+        "description": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to"
     },
     {
         "activity": "Go to a coffee shop",
-        "description": "test"
+        "description": "A cafe serving coffee and light refreshments"
     },
     {
         "activity": "Stargazing",
-        "description": "test"
+        "description": "Observing the stars"
     },
     {
         "activity": "Explore somewhere new",
-        "description": "test"
+        "description": "Anywhere that interests you"
     }
 ]
 
