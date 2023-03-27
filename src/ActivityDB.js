@@ -2,7 +2,7 @@ const activities = [
     {
         "activity": "Go for a walk",
         "description": "To walk for pleasure rather than for practical reasons",
-        "picture": <img src="https://hips.hearstapps.com/hmg-prod/images/runner-feet-running-on-road-closeup-on-shoe-royalty-free-image-918789438-1553785419.jpg" alt="" />
+        "picture": <img src="https://www.henryford.com/-/media/project/hfhs/henryford/henry-ford-blog/images/interior-banner-images/2019/03/walking-for-health-1.jpg?h=785&iar=0&w=1920&rev=fb6e2e7cb2c44ee3b10effde44402f8d&hash=8118FF4C98DF2B01496A59E32CC7A4B2" alt="walking" />
     },
     {
         "activity": "Listen to music",
