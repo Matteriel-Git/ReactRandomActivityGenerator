@@ -22,12 +22,12 @@ const activities = [
     {
         "activity": "Take a bath",
         "description": "Relax in a nice long bath",
-        "picture": <img src="images/bath.jpg" alt="bath" />
+        "picture": <img src="images/bath.jpg" alt="relaxing bath" />
     },
     {
         "activity": "Sit in the sun",
         "description": "Sunscreen required",
-        "picture": <img src="images/sun-sitting.jpg" alt="sunset" />
+        "picture": <img src="images/sun-sitting.jpg" alt="girl layign at the beach" />
     },
     {
         "activity": "Watch a movie",
