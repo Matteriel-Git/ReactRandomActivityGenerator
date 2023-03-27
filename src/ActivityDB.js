@@ -1,75 +1,93 @@
 const activities = [
     {
         "activity": "Go for a walk",
-        "description": "To walk for pleasure rather than for practical reasons"
+        "description": "To walk for pleasure rather than for practical reasons",
+        "picture": <img src="https://hips.hearstapps.com/hmg-prod/images/runner-feet-running-on-road-closeup-on-shoe-royalty-free-image-918789438-1553785419.jpg" alt="" />
     },
     {
         "activity": "Listen to music",
-        "description": "Put on your favortite music"
+        "description": "Put on your favortite music",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Photography",
-        "description": "Take pictures of something that interests you. Can be fashion, sports, architecture, nature, etc"
+        "description": "Take pictures of something that interests you. Can be fashion, sports, architecture, nature, etc",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Read a newspaper or magazine",
-        "description": "A printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence"
+        "description": "A printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Take a bath",
-        "description": "Relax in a nice long bath"
+        "description": "Relax in a nice long bath",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Sit in the sun",
-        "description": "Sunscreen required"
+        "description": "Sunscreen required",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Watch a movie",
-        "description": "An old favorite, or a new one that interests you"
+        "description": "An old favorite, or a new one that interests you",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Go on a bike ride",
-        "description": "Find a nice path and explore it"
+        "description": "Find a nice path and explore it",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Write in a journal",
-        "description": "Put your thoughts down on paper"
+        "description": "Put your thoughts down on paper",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Work on a puzzle",
-        "description": "A game, toy, or problem designed to test ingenuity or knowledge"
+        "description": "A game, toy, or problem designed to test ingenuity or knowledge",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Recall a happy memory",
-        "description": "The best memory you can think of"
+        "description": "The best memory you can think of",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Coloring",
-        "description": "Grab a marker or colored pencil and start coloring"
+        "description": "Grab a marker or colored pencil and start coloring",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Gardening",
-        "description": "Grow some plants"
+        "description": "Grow some plants",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Spend time with friends",
-        "description": "Have some fun with your firends"
+        "description": "Have some fun with your firends",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Do yoga",
-        "description": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation"
+        "description": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Swimming",
-        "description": "Great activity for a hot day"
+        "description": "Great activity for a hot day",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Singing",
-        "description": "Perform some songs"
+        "description": "Perform some songs",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Dancing",
-        "description": "Get your feet and body moving to some music"
+        "description": "Get your feet and body moving to some music",
+        "picture": <img src="" alt="" />
     },
     {
         "activity": "Go to a flea market",

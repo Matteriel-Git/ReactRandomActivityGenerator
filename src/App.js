@@ -8,7 +8,8 @@ export default class App extends Component {
   // state
   state = {
     activity: activities[0].activity,
-    description: activities[0].description
+    description: activities[0].description,
+    picture: activities[0].picture
   }
 
   // generate different activity function
@@ -21,7 +22,8 @@ export default class App extends Component {
     // update state
     this.setState({
       activity: newActivity.activity,
-      description: newActivity.description
+      description: newActivity.description,
+      picture: newActivity.picture
     })
 
     this.shuffleActivities(activities)

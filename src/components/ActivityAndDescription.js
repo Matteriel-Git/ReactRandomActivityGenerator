@@ -5,7 +5,9 @@ export default function ActivityAndDescription(props) {
 
     const { activity, generateRandomActivity } = props;
     return (
+        <div className="background-image">
         <div className="card" >
+
 
             <div className="card-body">
                 <p className="card-text">{activity.activity}</p>
@@ -22,6 +24,8 @@ export default function ActivityAndDescription(props) {
                 }}
                 type="submit"><i className="fab fa-twitter"></i> Share Your New Activity</button>
             </div>
+        </div>
+        <p className="img-activity">{activity.picture}</p>
         </div>
     )
 }
