@@ -22,17 +22,17 @@ const activities = [
     {
         "activity": "Take a bath",
         "description": "Relax in a nice long bath",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/bath.jpg" alt="bath" />
     },
     {
         "activity": "Sit in the sun",
         "description": "Sunscreen required",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/sun-sitting.jpg" alt="sunset" />
     },
     {
         "activity": "Watch a movie",
         "description": "An old favorite, or a new one that interests you",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/movie-watch.jpg" alt="watching movies" />
     },
     {
         "activity": "Go on a bike ride",
