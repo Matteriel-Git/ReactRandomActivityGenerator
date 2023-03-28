@@ -117,47 +117,47 @@ const activities = [
     {
         "activity": "Go to a farmer's market",
         "description": "A food market at which local farmers sell fruit and vegetables and often meat, cheese, and bakery products directly to consumers.",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/farmersmarket.jpg" alt="farmers market" />
     },
     {
         "activity": "Talk to loved one's",
         "description": "Could be a family member or someone you care deeply about",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/lovedones.jpg" alt="talking to loved ones" />
     },
     {
         "activity": "Play a musical instrument",
         "description": "Any device for producing a musical sound",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/instrument.jpg" alt="playing guitar" />
     },
     {
         "activity": "Crafting (crochet, model building)",
         "description": "The activity or hobby of making decorative articles by hand",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/crafting.jpg" alt="crafting" />
     },
     {
         "activity": "Get a massage",
         "description": "The rubbing and kneading of muscles and joints of the body with the hands, especially to relieve tension or pain",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/massage.jpg" alt="massage" />
     },
     {
         "activity": "Cooking",
         "description": "The practice or skill of preparing food by combining, mixing, and heating ingredients",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/cooking.jpg" alt="cooking" />
     },
     {
         "activity": "Go to a park",
         "description": "A large public green area in a town, used for recreation",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/park.jpg" alt="park" />
     },
     {
         "activity": "Play a sport",
         "description": "Football, basketball, baseball, soccer, etc",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/sports.jpg" alt="sports" />
     },
     {
         "activity": "Go sightseeing in your own town",
         "description": "The activity of visiting places of interest in a particular location",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/sightseeing.jpg" alt="sightseeing" />
     },
     {
         "activity": "Read a book",
