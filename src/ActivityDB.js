@@ -57,22 +57,22 @@ const activities = [
     {
         "activity": "Coloring",
         "description": "Grab a marker or colored pencil and start coloring",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/coloring.jpg" alt="coloring" />
     },
     {
         "activity": "Gardening",
         "description": "Grow some plants",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/gardening.jpg" alt="gardening" />
     },
     {
         "activity": "Spend time with friends",
         "description": "Have some fun with your firends",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/friends.jpg" alt="friends" />
     },
     {
         "activity": "Do yoga",
         "description": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/yoga.jpg" alt="yoga" />
     },
     {
         "activity": "Swimming",
