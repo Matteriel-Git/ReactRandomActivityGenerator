@@ -42,17 +42,17 @@ const activities = [
     {
         "activity": "Write in a journal",
         "description": "Put your thoughts down on paper",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/journal.jpg" alt="journal" />
     },
     {
         "activity": "Work on a puzzle",
         "description": "A game, toy, or problem designed to test ingenuity or knowledge",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/puzzle.jpg" alt="puzzle" />
     },
     {
         "activity": "Recall a happy memory",
         "description": "The best memory you can think of",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/memory.jpg" alt="memory" />
     },
     {
         "activity": "Coloring",
