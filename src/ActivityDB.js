@@ -37,7 +37,7 @@ const activities = [
     {
         "activity": "Go on a bike ride",
         "description": "Find a nice path and explore it",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/bike-ride.jpg" alt="bike ride" />
     },
     {
         "activity": "Write in a journal",
