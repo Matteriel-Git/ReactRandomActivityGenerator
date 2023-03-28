@@ -77,42 +77,42 @@ const activities = [
     {
         "activity": "Swimming",
         "description": "Great activity for a hot day",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/swimming.jpg" alt="swimming" />
     },
     {
         "activity": "Singing",
         "description": "Perform some songs",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/singing.jpg" alt="singing" />
     },
     {
         "activity": "Dancing",
         "description": "Get your feet and body moving to some music",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/dancing.jpg" alt="dancing" />
     },
     {
         "activity": "Go to a flea market",
         "description": "Full of interesting people and things",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/fleamarket.jpg" alt="flea market" />
     },
     {
         "activity": "Drawing",
         "description": "A picture or diagram made with a pencil, pen, or crayon rather than paint",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/drawing.jpg" alt="drawing" />
     },
     {
         "activity": "Painting",
         "description": "The process or art of using paint, in a picture, as a protective coating, or as decoration",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/painting.jpg" alt="painting" />
     },
     {
         "activity": "Go running",
         "description": "The action or movement of a runner",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/running.jpg" alt="running" />
     },
     {
         "activity": "Join a book club",
         "description": "Where a group comes together to talk about the current book they are reading",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/bookclub.jpg" alt="book club" />
     },
     {
         "activity": "Go to a farmer's market",
