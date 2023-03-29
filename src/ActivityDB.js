@@ -162,27 +162,27 @@ const activities = [
     {
         "activity": "Read a book",
         "description": "A book you've always wanted to read",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/book.jpg" alt="reading a book" />
     },
     {
         "activity": "Meditate",
         "description": "Think deeply or focus one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/meditate.jpg" alt="meditating" />
     },
     {
         "activity": "Watch a sunrise or sunset",
         "description": "Great to be paired with another acitivity on this list",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/sunrise.png" alt="sunrise" />
     },
     {
         "activity": "Enjoy a cup of tea",
         "description": "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/tea.jpg" alt="cup of tea" />
     },
     {
         "activity": "Have a picnic",
         "description": "An outing or occasion that involves taking a packed meal to be eaten outdoors",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/picnic.jpg" alt="picnic" />
     },
     {
         "activity": "Visit a museum",
