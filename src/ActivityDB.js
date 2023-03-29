@@ -187,67 +187,67 @@ const activities = [
     {
         "activity": "Visit a museum",
         "description": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/museum.jpg" alt="museum" />
     },
     {
         "activity": "Sudoku or a crossword puzzle",
         "description": "A puzzle in which players insert the numbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller squares in such a way that every number appears once in each horizontal line, vertical line, and square",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/sudoku.jpg" alt="sudoku" />
     },
     {
         "activity": "Play a board game",
         "description": "Any game played on a board, especially one that involves the movement of pieces on the board, such as chess or checkers",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/boardgame.jpg" alt="boardgame" />
     },
     {
         "activity": "Look at old photos",
         "description": "One's that bring back great memories",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/oldphotos.jpg" alt="oldphotos" />
     },
     {
         "activity": "Roadtrip",
         "description": "A journey made by car, bus, etc",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/roadtrip.jpg" alt="roadtrip" />
     },
     {
         "activity": "Call a friend or family member",
         "description": "Just to catch up with each other",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/callingfriend.jpg" alt="calling a friend" />
     },
     {
         "activity": "Hiking",
         "description": "The activity of going for long walks, especially in the country or woods",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/hiking.jpg" alt="hiking" />
     },
     {
         "activity": "Go to movie theatre",
         "description": "A theater where movies are shown for public entertainment",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/movietheatre.jpg" alt="movie theatre" />
     },
     {
         "activity": "Volunteer",
         "description": "A person who freely offers to take part in an enterprise or undertake a task",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/volunteer.jpg" alt="volunteer" />
     },
     {
         "activity": "Go to the library",
         "description": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/library.jpg" alt="library" />
     },
     {
         "activity": "Go to a coffee shop",
         "description": "A cafe serving coffee and light refreshments",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/coffeeshop.jpg" alt="coffee shop" />
     },
     {
         "activity": "Stargazing",
         "description": "Observing the stars",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/stargazing.jpg" alt="stargazing" />
     },
     {
         "activity": "Explore somewhere new",
         "description": "Anywhere that interests you",
-        "picture": <img src="images/" alt="" />
+        "picture": <img src="images/exploring.jpg" alt="exploring" />
     }
 ]
 
