@@ -66,7 +66,7 @@ const activities = [
     },
     {
         "activity": "Spend time with friends",
-        "description": "Have some fun with your firends",
+        "description": "Have some fun with firends",
         "picture": <img id="photos" src="images/friends.jpg" alt="friends" />
     },
     {
