@@ -8,7 +8,6 @@ export default function ActivityAndDescription(props) {
         <div className="background-image">
         <div className="card" >
 
-
             <div className="card-body">
                 <p className="card-text">{activity.activity}</p>
                 <h5 className="card-title">- {activity.description}</h5>
@@ -25,7 +24,7 @@ export default function ActivityAndDescription(props) {
                 type="submit"><i className="fab fa-twitter"></i> Share Your New Activity</button>
             </div>
         </div>
-        <p className="img-activity">{activity.picture}</p>
+        <a className="random-photos">{activity.picture}</a>
         </div>
     )
 }

@@ -11,9 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.img-activity {
-  padding-top: 20px;
-  opacity: 90%;
-  position: absolute;
-  left: 5px;
+
+.card-text {
+  font-weight: 550;
+  font-size: 30px;
+}
+
+#photos {
+  height: 200px;
 }
