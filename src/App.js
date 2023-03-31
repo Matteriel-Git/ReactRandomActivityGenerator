@@ -38,7 +38,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1 className="text-center">Random Activity Generator</h1>
+        <h1 className="text-center">Activity Generator</h1>
         <ActivityAndDescription
         generateRandomActivity={this.generateRandomActivity}
         activity={this.state}

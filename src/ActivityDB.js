@@ -87,7 +87,7 @@ const activities = [
     {
         "activity": "Dancing",
         "description": "Get your feet and body moving to some music",
-        "picture": <img id="photos" src="images/dancing.jpg" alt="dancing" />
+        "picture": <img id="photos" src="images/dancing2.jpg" alt="dancing" />
     },
     {
         "activity": "Go to a flea market",
@@ -171,7 +171,7 @@ const activities = [
     },
     {
         "activity": "Watch a sunrise or sunset",
-        "description": "Great to be paired with another acitivity on this list",
+        "description": "Great to be paired with another activity on this list",
         "picture": <img id="photos" src="images/sunrise.png" alt="sunrise" />
     },
     {

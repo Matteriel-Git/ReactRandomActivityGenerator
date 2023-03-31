@@ -19,7 +19,7 @@ export default function ActivityAndDescription(props) {
                 className="m1-3"
                 onClick={() => {
                     generateRandomActivity(activity);
-                    window.open('https://twitter.com/intent/tweet/?text=' + encodeURIComponent(activity.activity + '--' + activity.description))
+                    window.open("https://twitter.com/intent/tweet/?text=I'm going to " + encodeURIComponent(activity.activity.toLowerCase() + '. - ' + activity.description))
                 }}
                 type="submit"><i className="fab fa-twitter"></i> Share Your New Activity</button>
             </div>
