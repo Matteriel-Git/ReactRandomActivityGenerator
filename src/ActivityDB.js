@@ -10,7 +10,7 @@ const activities = [
         "picture": <img id="photos" src="images/listen.jpg" alt="earbuds" />
     },
     {
-        "activity": "Photography",
+        "activity": "Do photography",
         "description": "Take pictures of something that interests you. Can be fashion, sports, architecture, nature, etc",
         "picture": <img id="photos" src="images/photography.jpeg" alt="camera" />
     },
@@ -55,12 +55,12 @@ const activities = [
         "picture": <img id="photos" src="images/memory.jpg" alt="memory" />
     },
     {
-        "activity": "Coloring",
+        "activity": "Color",
         "description": "Grab a marker or colored pencil and start coloring",
         "picture": <img id="photos" src="images/coloring.jpg" alt="coloring" />
     },
     {
-        "activity": "Gardening",
+        "activity": "Do gardening",
         "description": "Grow some plants",
         "picture": <img id="photos" src="images/gardening.jpg" alt="gardening" />
     },
@@ -75,17 +75,17 @@ const activities = [
         "picture": <img id="photos" src="images/yoga.jpg" alt="yoga" />
     },
     {
-        "activity": "Swimming",
+        "activity": "Swim",
         "description": "Great activity for a hot day",
         "picture": <img id="photos" src="images/swimming.jpg" alt="swimming" />
     },
     {
-        "activity": "Singing",
+        "activity": "Sing",
         "description": "Perform some songs",
         "picture": <img id="photos" src="images/singing.jpg" alt="singing" />
     },
     {
-        "activity": "Dancing",
+        "activity": "Dance",
         "description": "Get your feet and body moving to some music",
         "picture": <img id="photos" src="images/dancing2.jpg" alt="dancing" />
     },
@@ -95,12 +95,12 @@ const activities = [
         "picture": <img id="photos" src="images/fleamarket.jpg" alt="flea market" />
     },
     {
-        "activity": "Drawing",
+        "activity": "Draw",
         "description": "A picture or diagram made with a pencil, pen, or crayon rather than paint",
         "picture": <img id="photos" src="images/drawing.jpg" alt="drawing" />
     },
     {
-        "activity": "Painting",
+        "activity": "Paint",
         "description": "The process or art of using paint, in a picture, as a protective coating, or as decoration",
         "picture": <img id="photos" src="images/painting.jpg" alt="painting" />
     },
@@ -130,7 +130,7 @@ const activities = [
         "picture": <img id="photos" src="images/instrument.jpg" alt="playing guitar" />
     },
     {
-        "activity": "Crafting (crochet, model building)",
+        "activity": "Do crafting (crochet, model building)",
         "description": "The activity or hobby of making decorative articles by hand",
         "picture": <img id="photos" src="images/crafting.jpg" alt="crafting" />
     },
@@ -140,7 +140,7 @@ const activities = [
         "picture": <img id="photos" src="images/massage.jpg" alt="massage" />
     },
     {
-        "activity": "Cooking",
+        "activity": "Cook",
         "description": "The practice or skill of preparing food by combining, mixing, and heating ingredients",
         "picture": <img id="photos" src="images/cooking.jpg" alt="cooking" />
     },
@@ -190,7 +190,7 @@ const activities = [
         "picture": <img id="photos" src="images/museum.jpg" alt="museum" />
     },
     {
-        "activity": "Sudoku or a crossword puzzle",
+        "activity": "Do sudoku or a crossword puzzle",
         "description": "A puzzle in which players insert the numbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller squares in such a way that every number appears once in each horizontal line, vertical line, and square",
         "picture": <img id="photos" src="images/sudoku.jpg" alt="sudoku" />
     },
@@ -205,7 +205,7 @@ const activities = [
         "picture": <img id="photos" src="images/oldphotos.jpeg" alt="oldphotos" />
     },
     {
-        "activity": "Roadtrip",
+        "activity": "Do a roadtrip",
         "description": "A journey made by car, bus, etc",
         "picture": <img id="photos" src="images/roadtrip.jpg" alt="roadtrip" />
     },
@@ -215,7 +215,7 @@ const activities = [
         "picture": <img id="photos" src="images/callingfriend.jpg" alt="calling a friend" />
     },
     {
-        "activity": "Hiking",
+        "activity": "Go hiking",
         "description": "The activity of going for long walks, especially in the country or woods",
         "picture": <img id="photos" src="images/hiking.jpg" alt="hiking" />
     },
@@ -240,7 +240,7 @@ const activities = [
         "picture": <img id="photos" src="images/coffeeshop.jpg" alt="coffee shop" />
     },
     {
-        "activity": "Stargazing",
+        "activity": "Stargaze",
         "description": "Observing the stars",
         "picture": <img id="photos" src="images/stargazing.jpg" alt="stargazing" />
     },
